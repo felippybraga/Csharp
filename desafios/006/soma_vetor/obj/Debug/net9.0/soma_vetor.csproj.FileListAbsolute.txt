@@ -1,0 +1,15 @@
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\bin\Debug\net9.0\soma_vetor.exe
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\bin\Debug\net9.0\soma_vetor.deps.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\bin\Debug\net9.0\soma_vetor.runtimeconfig.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\bin\Debug\net9.0\soma_vetor.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\bin\Debug\net9.0\soma_vetor.pdb
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\obj\Debug\net9.0\soma_vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\obj\Debug\net9.0\soma_vetor.AssemblyInfoInputs.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\obj\Debug\net9.0\soma_vetor.AssemblyInfo.cs
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\obj\Debug\net9.0\soma_vetor.csproj.CoreCompileInputs.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\obj\Debug\net9.0\soma_vetor.sourcelink.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\obj\Debug\net9.0\soma_vetor.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\obj\Debug\net9.0\refint\soma_vetor.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\obj\Debug\net9.0\soma_vetor.pdb
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\obj\Debug\net9.0\soma_vetor.genruntimeconfig.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\006\soma_vetor\obj\Debug\net9.0\ref\soma_vetor.dll

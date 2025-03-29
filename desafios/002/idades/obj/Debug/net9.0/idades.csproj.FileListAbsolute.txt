@@ -1,0 +1,15 @@
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\obj\Debug\net9.0\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\obj\Debug\net9.0\idades.AssemblyInfoInputs.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\obj\Debug\net9.0\idades.AssemblyInfo.cs
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\obj\Debug\net9.0\idades.csproj.CoreCompileInputs.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\obj\Debug\net9.0\idades.sourcelink.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\bin\Debug\net9.0\idades.exe
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\bin\Debug\net9.0\idades.deps.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\bin\Debug\net9.0\idades.runtimeconfig.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\bin\Debug\net9.0\idades.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\bin\Debug\net9.0\idades.pdb
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\obj\Debug\net9.0\idades.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\obj\Debug\net9.0\refint\idades.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\obj\Debug\net9.0\idades.pdb
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\obj\Debug\net9.0\idades.genruntimeconfig.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\002\idades\obj\Debug\net9.0\ref\idades.dll

@@ -1,0 +1,15 @@
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\bin\Debug\net9.0\diagonal_negativas.exe
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\bin\Debug\net9.0\diagonal_negativas.deps.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\bin\Debug\net9.0\diagonal_negativas.runtimeconfig.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\bin\Debug\net9.0\diagonal_negativas.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\bin\Debug\net9.0\diagonal_negativas.pdb
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\obj\Debug\net9.0\diagonal_negativas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\obj\Debug\net9.0\diagonal_negativas.AssemblyInfoInputs.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\obj\Debug\net9.0\diagonal_negativas.AssemblyInfo.cs
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\obj\Debug\net9.0\diagonal_negativas.csproj.CoreCompileInputs.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\obj\Debug\net9.0\diagonal_negativas.sourcelink.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\obj\Debug\net9.0\diagonal_negativas.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\obj\Debug\net9.0\refint\diagonal_negativas.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\obj\Debug\net9.0\diagonal_negativas.pdb
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\obj\Debug\net9.0\diagonal_negativas.genruntimeconfig.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\desafios\007\diagonal_negativas\obj\Debug\net9.0\ref\diagonal_negativas.dll
