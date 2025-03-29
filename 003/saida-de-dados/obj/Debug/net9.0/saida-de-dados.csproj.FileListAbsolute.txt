@@ -1,0 +1,15 @@
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\bin\Debug\net9.0\saida-de-dados.exe
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\bin\Debug\net9.0\saida-de-dados.deps.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\bin\Debug\net9.0\saida-de-dados.runtimeconfig.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\bin\Debug\net9.0\saida-de-dados.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\bin\Debug\net9.0\saida-de-dados.pdb
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\obj\Debug\net9.0\saida-de-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\obj\Debug\net9.0\saida-de-dados.AssemblyInfoInputs.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\obj\Debug\net9.0\saida-de-dados.AssemblyInfo.cs
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\obj\Debug\net9.0\saida-de-dados.csproj.CoreCompileInputs.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\obj\Debug\net9.0\saida-de-dados.sourcelink.json
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\obj\Debug\net9.0\saida-de-dados.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\obj\Debug\net9.0\refint\saida-de-dados.dll
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\obj\Debug\net9.0\saida-de-dados.pdb
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\obj\Debug\net9.0\saida-de-dados.genruntimeconfig.cache
+C:\Users\noobc\OneDrive\Documentos\CURSOS\C#\003\saida-de-dados\obj\Debug\net9.0\ref\saida-de-dados.dll
